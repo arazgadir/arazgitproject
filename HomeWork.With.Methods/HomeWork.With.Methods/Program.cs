@@ -43,7 +43,7 @@ namespace MASSIV.ZADACHA._1
             return int.Parse(Console.ReadLine());
 
         }
-        
+
 
         static void KtoStarshe(string a, string b, int c, int d)
         {
@@ -103,8 +103,8 @@ namespace MASSIV.ZADACHA._1
         }
 
 
-        
-       
+
+
         static void Main(string[] args)
         {
 
@@ -115,7 +115,7 @@ namespace MASSIV.ZADACHA._1
             int Vozrast2 = VtoroyVozrast();
 
 
-             KtoStarshe (Uchastnik1, Uchastnik2, Vozrast1, Vozrast2);
+            KtoStarshe(Uchastnik1, Uchastnik2, Vozrast1, Vozrast2);
 
 
             int Raznica1 = Vozrast1 - Vozrast2;
@@ -125,13 +125,13 @@ namespace MASSIV.ZADACHA._1
             if (Vozrast1 > Vozrast2)
 
             {
-                Console.WriteLine( Uchastnik1 + " is " + Raznica1 + " years older");
+                Console.WriteLine(Uchastnik1 + " is " + Raznica1 + " years older");
             }
 
 
             else if (Vozrast2 > Vozrast1)
             {
-                Console.WriteLine( Uchastnik2 + " is " + Raznica2 + " years older");
+                Console.WriteLine(Uchastnik2 + " is " + Raznica2 + " years older");
             }
 
 
@@ -144,36 +144,3 @@ namespace MASSIV.ZADACHA._1
 
 
             Console.WriteLine();
-
-
-            
-
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        }
-
-
-
-    }
-}
-
-
-
