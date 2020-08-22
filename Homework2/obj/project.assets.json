@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\yenipapka\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\yenipapka\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\yenipapka\\Homework2\\Homework2.csproj",
+      "projectName": "Homework2",
+      "projectPath": "C:\\yenipapka\\Homework2\\Homework2.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\yenipapka\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\yenipapka\\Homework2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
