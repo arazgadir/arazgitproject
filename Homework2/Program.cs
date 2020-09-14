@@ -31,7 +31,8 @@ namespace MASSIV.ZADACHA._1
             Console.Write("Write your age N2: ");
             int age2 = int.Parse(Console.ReadLine());                    // данные участников 
 
-
+           Console.Write();
+            
             //Label:
 
 
